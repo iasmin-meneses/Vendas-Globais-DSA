@@ -50,7 +50,4 @@ Sou Analista de Dados, com conhecimentos em SQL, Power BI e Python. Estou em con
 Projeto desenvolvido durante o curso **“Curso Gratuito de Power BI”** da [Data Science Academy](https://www.datascienceacademy.com.br/).
 
 ---
-
-## 📷 Preview do Dashboard
-
-![Dashboard](./caminho/para/imagem.png)
+https://github.com/iasmin-meneses/Vendas-Globais-DSA/issues/1#issue-3176986548
