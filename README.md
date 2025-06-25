@@ -44,10 +44,5 @@ O dashboard responde a perguntas de negócio com foco em vendas globais, incluin
 ## 👩‍💻 Sobre mim
 Sou Analista de Dados, com conhecimentos em SQL, Power BI e Python. Estou em constante evolução na área de dados, buscando transformar dados em informações que apoiam a tomada de decisões.
 
-
-## 📘 Curso
-
-Projeto desenvolvido durante o curso **“Curso Gratuito de Power BI”** da [Data Science Academy](https://www.datascienceacademy.com.br/).
-
 ---
-https://github.com/iasmin-meneses/Vendas-Globais-DSA/issues/1#issue-3176986548
+![Image](https://github.com/user-attachments/assets/2e1baa97-bec6-4056-83ae-edd62fc085bd)
